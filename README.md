@@ -22,6 +22,11 @@ To facilitate collaboration on a Serverless Perspective whitepaper/research docu
     docker run --rm -v ~/src/perspective:/source jackwarner/serverless-perspectives example.md --smart --standalone --bibliography sources.bib --csl=/styles/chicago-fullnote-bibliography.csl -o example.pdf
     ```
 
+
+    ``` 
+    docker run --rm -v /c/pathtorepo/perspective jackwarner/serverless-perspectives example.md --smart --standalone --bibliography sources.bib --csl=/styles/chicago-fullnote-bibliography.csl -o example.pdf
+    ```
+
 1. Or epub:
 
      ``` 
