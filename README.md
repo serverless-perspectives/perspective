@@ -22,10 +22,10 @@ To facilitate collaboration on a Serverless Perspective whitepaper/research docu
     docker run --rm -v ~/src/perspective:/source jackwarner/serverless-perspectives example.md --smart --standalone --bibliography sources.bib --csl=/styles/chicago-fullnote-bibliography.csl -o example.pdf
     ```
 
-    If you're running Docker on a Windows machine mind that the path to your repo is in the following format (assumming it's on the C drive):
+    If you're running Docker on a Windows machine mind that the path to your repo is in the following format (assumming it's on the C drive, and that the C drive has already been shared with the Docker client):
 
     ``` 
-    docker run --rm -v /c/path/to/repo/perspective jackwarner/serverless-perspectives example.md --smart --standalone --bibliography sources.bib --csl=/styles/chicago-fullnote-bibliography.csl -o example.pdf
+    docker run --rm -v /c/path/to/repo/perspective:/source jackwarner/serverless-perspectives example.md --smart --standalone --bibliography sources.bib --csl=/styles/chicago-fullnote-bibliography.csl -o example.pdf
     ```
 
 1. Or epub:
