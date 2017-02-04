@@ -38,4 +38,5 @@ III.  Examples
     B.  Secure automated serverless delivery at scale
     C.  Voice interactions with Alexa Skills
     D.  Function orchestration with Step Functions
-    E.  Bakeoff: AWS Lambda Functions, Azure Functions, Google Cloud Functions, Apache OpenWhisk
+    E.  Bakeoff: AWS Lambda Functions, Azure Functions, Google Cloud Functions, & Apache OpenWhisk
+    F.  Bakeoff pt II: Serverless Framework, Apex, & Claudia
