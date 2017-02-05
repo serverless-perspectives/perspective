@@ -59,3 +59,7 @@ subtitle: An outline
 1. Function orchestration with Step Functions
 1. Bakeoff: AWS Lambda Functions, Azure Functions, Google Cloud Functions, & Apache OpenWhisk
 1. Bakeoff pt II: Serverless Framework, Apex, & Claudia
+
+## Sources
+
+<!-- Inserted automatically by pandoc-citeproc -->
