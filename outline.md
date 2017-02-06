@@ -14,19 +14,26 @@ subtitle: An outline
         1. SAM (Serverless Application Model)
         1. Others?
 
-##  Why should I use serverless?
+## What's the future of IT?
+
+1. Imagine a world...
+
+##  How does serverless get me to that end state?
     
-1. Helping you do what you know you should be doing already
+1. It's already well understood how to get there (concepts and how serverless is a helpful tool for enabling)
     1. API-driven development
         1. Platforms as a first-class citizen
         1. Meta-data analysis and informed decision making
     1. Value chain analysis
         1. Purposefully evolve the ecosystem
         1. Focus on value creation
-1. Two pizza teams
-    1. Decoupled architecture
-    1. Accelerate the feedback cycles
-        1. Owning the OODA (observe, orient, decide, and act) loop [@ooda]
+    1. Two pizza teams
+        1. Decoupled architecture
+        1. Accelerate the feedback cycles
+            1. Owning the OODA (observe, orient, decide, and act) loop [@ooda]
+
+## When should I adopt serverless?
+
 1. Serverless use cases, a primer
     1. API platforms
         1. External
@@ -57,6 +64,8 @@ subtitle: An outline
 1. Secure automated serverless delivery at scale
 1. Voice interactions with Alexa Skills
 1. Function orchestration with Step Functions
+1. API meta-data ingestion and storage
+1. API meta-data analysis
 1. Bakeoff: AWS Lambda Functions, Azure Functions, Google Cloud Functions, & Apache OpenWhisk
 1. Bakeoff pt II: Serverless Framework, Apex, & Claudia
 
