@@ -14,8 +14,6 @@ After teams have removed themselves from bottom half of value chains, what do th
     - Decoupled the lockstep pattern of IT buildout and business buildout
     - Decoupling IT speed/agility from ability to innovate
 
-
 Concerns people might have about these claims
 - This is too far in the Future
 - Works for Netflix but too hard for companies like mine to achieve
-
