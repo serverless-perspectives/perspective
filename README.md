@@ -8,11 +8,11 @@ To facilitate collaboration on a Serverless Perspective whitepaper/research docu
 
 1. Install Docker
 
-1. Download and install [BibDesk](https://sourceforge.net/projects/bibdesk/) - you'll use it to save sources
+1. Download and install [BibDesk](https://sourceforge.net/projects/bibdesk/) - you'll use it to save sources.  An online alternative is the [BibTeX entry from URL](https://chrome.google.com/webstore/detail/bibtex-entry-from-url/mgpmgkhhbjgkpnanlmlhibjfgpdpgjec) Chrome extension.
 
 1. Start writing. We'll add some thoughts to 'example.md' first.
  
-1. Add your first citation. Open 'sources.bib' in BibDesk and use the handy UI to enter your source, ensuring that create a unique 'Cite Key'. If you are feeling brave, you can edit sources.bib in a text editor instead!
+1. Add your first citation. Open 'sources.bib' in BibDesk and use the handy UI to enter your source, ensuring that create a unique 'Cite Key'. If you are feeling brave, you can edit sources.bib in a text editor instead!  If you're using the Chrome extension for generating BibTex markup simply copy/paste it into this file.
 
 1. In your markdown file, in this case, 'example.md', reference the cite key in your text. In this case, we've referenced [@amazon-eating] after the first sentence.
 
