@@ -2,7 +2,7 @@
 
 **Intent:** to provide options for framing 15 minutes worth of content in a form resembling a story
 
-### 'Colloquial Painted Picture'
+## 'Colloquial Painted Picture'
 
 1. Describe a day-in-the-life of a member of a highly mature, creative, cross-functional team, call him team member 'X', and he works at XCorp
     1. 'X' starts his day with a summary of results of the previous day's experiments. 1.2 million variations were run. Of those, 97.2% showed little or no change over business as usual.
@@ -37,7 +37,7 @@
         1. Financing
     1. Is executing at this level specific to an industry? Could you think of ways to adapt it to yours?
 
-## 'Deconstructing Assumptions'
+## 'Deconstructing Assumptions' [@HowtoWri11:online]
 
 1. Start with assumptions:
     1. IT Talent is scarce
@@ -62,3 +62,5 @@
 1. Cheap, reliable electricity ushered in the advent of an electronics innovation boom. Innovations (including computers and the internet) would never have come to be without affordable forms of electricity.
 1. If each business needed it's own power-grid to create new products, 'CEO' would surely still stand for Chief Electricity Officer [@Chiefdat33:online]
 1. Serverless will usher in a similar innovation boom for compute.
+
+## Works Cited
